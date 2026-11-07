@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Asma!
 
-<!--
-**AsmaAdmani/AsmaAdmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Student
 
-Here are some ideas to get you started:
+I'm a student with a growing interest in software development, programming and technology. I'm currently building my knowledge and practical skills through coursework, independent learning and hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning how things work, solving problems and applying new concepts through practical work. I'm using GitHub to document my progress, showcase my projects and continue developing as a programmer.
+
+### Technical Skills & Experience
+
+- **Databases:** SQL, MySQL
+- **Database Tools:** MySQL Workbench
+
+### Areas of Learning & Development
+
+- Python
+- JavaScript
+- HTML & CSS
+- Full-stack development
+- Programming fundamentals and problem-solving
+
+### Projects & Development
+
+I'm working towards building a portfolio of projects that demonstrate my growing technical knowledge, problem-solving abilities and practical development skills.
+
+This portfolio will grow as I learn new technologies and take on more challenging projects.
+
+### My Goals
+
+To develop a strong foundation in software engineering, gain practical experience and continue learning new technologies while working towards a career in the tech industry.
+
+---
+
+Thanks for visiting my profile!
